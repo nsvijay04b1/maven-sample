@@ -7,7 +7,7 @@
   <artifactId>testapp</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
- <!-- <name>my-app</name>-->
+ <name>testapp</name>
   <url>http://maven.apache.org</url>
 
   <dependencies>
